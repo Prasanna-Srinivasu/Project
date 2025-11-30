@@ -12,4 +12,4 @@ The frontend for "Tomato," a modern food ordering web application built entirely
 ### Technologies Used
 
 - **Frontend:** React, JavaScript, CSS3
-- **Libraries:** React Router, Axios
+- **Libraries:** React Router.
